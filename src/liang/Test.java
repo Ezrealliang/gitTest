@@ -14,5 +14,6 @@ public class Test {
 	//方法2
 	public void method2(){
 		System.out.println("亮亮");
+		System.out.println("你好");
 	}
 }
