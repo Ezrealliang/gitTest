@@ -10,4 +10,8 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("lianxi");
 	}
+	//∑Ω∑®2
+	public void method2(){
+		System.out.println("¡¡¡¡");
+	}
 }
